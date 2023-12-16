@@ -5,7 +5,7 @@
 
 ## Random Facts
 
--☕ Coffee enthusiast with a penchant for problem-solving.
+-☕ Coffee enthusiast with a penchant for problem-solving..
 -💻 Passionate about programming and web development.
 -👨‍💻 Thrives on the challenges of creative problem-solving.
 -🎮 Finds solace in playing Animal Crossing during downtime.
