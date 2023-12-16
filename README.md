@@ -5,12 +5,13 @@
 
 ## Random Facts
 
--☕ Coffee enthusiast with a penchant for problem-solving..
--💻 Passionate about programming and web development.
--👨‍💻 Thrives on the challenges of creative problem-solving.
--🎮 Finds solace in playing Animal Crossing during downtime.
--🕹️ Firm believer that Dark Souls is the epitome of gaming excellence.
--🌍 Currently residing in the vibrant city of Tokyo, Japan.
+- ☕ Coffee enthusiast with a penchant for problem-solving
+- 💻 Passionate about programming and web development.
+- 👨‍💻 Thrives on the challenges of creative problem-solving.
+- 🎮 When I feel down I play animal crossing.
+- 📜 Aspiring to master all 2,136 Kanjis.
+- 🕹️ Firm believer that Dark Souls is the epitome of gaming excellence.
+  
 
 
 
