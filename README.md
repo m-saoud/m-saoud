@@ -5,11 +5,16 @@
 
 ## Random Facts
 
-- ☕ I drink a lot of coffee.
-- 💻 I love programming and web development.
-- 👨‍💻 I love problem solving.
-- 🎮 When I feel down I play animal crossing.
-- 📜 I want to learn all the 2,136 Kanjis.
-- 🕹️ Dark Souls is the best game ever.
-- 🎵 King Gnu Rocks!
-- 🌍 I Live in Tokyo, Japan.
+☕ Coffee enthusiast with a penchant for problem-solving.
+💻 Passionate about programming and web development.
+👨‍💻 Thrives on the challenges of creative problem-solving.
+🎮 Finds solace in playing Animal Crossing during downtime.
+🕹️ Firm believer that Dark Souls is the epitome of gaming excellence.
+🌍 Currently residing in the vibrant city of Tokyo, Japan.
+
+
+
+
+
+
+
